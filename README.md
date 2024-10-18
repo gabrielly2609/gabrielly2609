@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**gabrielly2609/gabrielly2609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Aqui estão algumas ideias para você começar:
+
+- 🔭 Atualmente estou no colegio padre claudio morelli
+- 🌱 Atualmente estou aprendendo varias coisa na escola
+- 👯 Procuro colaborar em atividades praticas
+- 🤔 Estou procurando ajuda com o psiquiatra
+- 💬 Pergunte-me sobre minha idade
+- 📫 Como entrar em contato comigo: gabrielly2609
+- 😄 Pronomes: ela/dela😶‍🌫️
+- ⚡ Curiosidade: gosto de praticar esportes😶gosto de dormir😴
 -->
